@@ -5,7 +5,7 @@ DOM document Object Model
 let numeroSecreto = 0;
 let intentos = 0;
 let listaNumerosSorteados = [];
-let numeroMaximo = 10;
+let numeroMaximo = 50;
 
 function asignacionDeTexto(elemento,texto){              //funcion de asignacion de texto 
     let elementoHTML = document.querySelector(elemento); // Seleccion de el elemento de HTML
